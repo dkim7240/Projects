@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Astar.cpp
+c:\users\dokyun\desktop\comp131\pset1\pset1\astar.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\dokyun\desktop\comp131\pset1\pset1\astar.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Pset1.vcxproj -> C:\Users\Dokyun\Desktop\comp131\Pset1\Debug\Pset1.exe
+  Pset1.vcxproj -> C:\Users\Dokyun\Desktop\comp131\Pset1\Debug\Pset1.pdb (Partial PDB)

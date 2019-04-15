@@ -1,0 +1,17 @@
+Dokyun Kim (dkim11)
+(04/02/18)
+
+- My solution to the problem is consisted of three files.
+  
+  Nodes.h: Contains the definitions and implementations of 
+           different types of nodes of behavior tree
+  BehaviorTree.h: Contains the definitions of methods necessary for
+                  initializing the behavior tree for Roomba as instructed
+				  in the specification sheet
+  BehaviorTree.cpp: Contains the implementations of the methods declared
+                    in BehaviorTree.h  
+  Blackboard.h: Contains the definition of a Blackboard object
+  main.cpp : The main controller of the program which manages input and output  
+   
+- I implemented the behavior tree as shown in the problem set and 
+  mostly followed the design patterns described in the lecture.  

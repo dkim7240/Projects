@@ -1,0 +1,11 @@
+Dokyun Kim (dkim11)
+(03/01/18)
+
+- My solution to the problem is consisted of one source file.
+  
+  Pset2.cpp: Includes the implementations of chromosome generator,
+             fitness function, fringe operations, and printing out
+			 the solution.
+  
+- I implemented the genetic algorithm as described in pseudocode 
+  in the lecture for this problem. 

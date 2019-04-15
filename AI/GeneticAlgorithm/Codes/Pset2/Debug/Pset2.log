@@ -1,0 +1,35 @@
+﻿  Pset2.cpp
+c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(102): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(249): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(255): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(261): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\utility(201): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(55): note: see reference to function template instantiation 'std::pair<std::string,float>::pair<std::string,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=std::string,
+              _Other2=double
+          ]
+  c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(54): note: see reference to function template instantiation 'std::pair<std::string,float>::pair<std::string,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=std::string,
+              _Other2=double
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\utility(201): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(247): note: see reference to function template instantiation 'std::pair<std::string,float>::pair<const char(&)[8],int,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=const char (&)[8],
+              _Other2=int
+          ]
+  c:\users\dokyun\desktop\comp131\pset2\pset2\pset2\pset2.cpp(247): note: see reference to function template instantiation 'std::pair<std::string,float>::pair<const char(&)[8],int,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=const char (&)[8],
+              _Other2=int
+          ]
+  Pset2.vcxproj -> C:\Users\Dokyun\Desktop\comp131\Pset2\Pset2\Debug\Pset2.exe

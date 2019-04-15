@@ -1,0 +1,18 @@
+Dokyun Kim (dkim11)
+(02/11/18)
+
+- My solution to the problem is consisted of three header files and two source files.
+  
+  Header files: Astar.h, Node.h, PQueue.h
+  Source files: Astar.cpp, Main.cpp
+
+  Astar.h: Contains definitions of the methods of the interface for A* module. 
+  Node.h: Contains the definition of the node 
+  PQueue.h: Contains the definitions and implementations of the priority queue
+            for the frontier of A*
+  
+  Astar.cpp: Contains the implementations of the declared methods in Astar.h
+  Main.cpp: The main controller of the program
+  
+- I implemented the A* algorithm as described in pseudocode in the lecture
+  for this problem. 
